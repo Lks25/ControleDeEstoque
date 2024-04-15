@@ -415,7 +415,7 @@ public class Produto implements Menu {
         return estoque;
     }
 
-    public void setEstoque(int[] estoque) {
+    private void setEstoque(int[] estoque) {
         this.estoque = estoque;
     }
 
