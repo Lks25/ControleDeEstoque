@@ -2,7 +2,7 @@ package br.com.lukas.controledeestoque;
 
 import javax.swing.JOptionPane;
 
-public class ControleDeEstoqueDeJogos {
+public class Main {
 
     public static void main(String[] args) {
         
